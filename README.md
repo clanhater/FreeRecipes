@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.flaticon.es/icono-gratis/sombrero-de-cocinero_4633961?term=gorro-de-cocinero&page=1&position=71&origin=search&related_id=4633961" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn-icons-png.flaticon.com/128/4633/4633961.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Free Recipes</h3>
