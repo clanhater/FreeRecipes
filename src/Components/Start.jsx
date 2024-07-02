@@ -33,8 +33,6 @@ function Start() {
       });
   }, []);
 
-  // /images/icons/flags/big/64/gb.png
-
   if (!categoriesData || !ingredients) {
     return <Spinner />;
   }

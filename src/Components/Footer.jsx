@@ -21,7 +21,7 @@ function Footer() {
                   target="_blank"
                   className="fa-stack fa-2x"
                 >
-                  <i class="fab fa-facebook-f facebook-icon"></i>
+                  <i className="fab fa-facebook-f facebook-icon"></i>
                 </a>
               </li>
               <li className="me-3 col-2">
@@ -30,7 +30,7 @@ function Footer() {
                   target="_blank"
                   className="fa-stack fa-2x"
                 >
-                  <i class="fab fa-instagram instagram-icon"></i>
+                  <i className="fab fa-instagram instagram-icon"></i>
                 </a>
               </li>
               <li className="me-3 col-2">
@@ -39,7 +39,7 @@ function Footer() {
                   target="_blank"
                   className="fa-stack fa-2x"
                 >
-                  <i class="fab fa-twitter twitter-icon"></i>
+                  <i className="fab fa-twitter twitter-icon"></i>
                 </a>
               </li>
             </ul>

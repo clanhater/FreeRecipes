@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 function Flags() {
   const flags = [
     {strArea: "gb"},
@@ -38,18 +36,14 @@ function Flags() {
     {strArea: "UA"},
   ];
 
-  console.log(flags)
-
   return (
     <div className="row">
       <div className="col">
         {flags.map(({ strArea }) => (
-          <div className="d-inline">
-            <Link to={`/flags/${strArea}`}>
+          <div key={strArea} className="d-inline">
               <img
                 src={`https://www.themealdb.com//images/icons/flags/big/64/${strArea}.png`}
               />
-            </Link>
           </div>
         ))}
       </div>
