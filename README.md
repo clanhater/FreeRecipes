@@ -24,10 +24,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
@@ -57,7 +53,7 @@ Contribute to our project and help us improve!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing Node.js and npm
 
@@ -66,13 +62,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Run the following command in the console to install the dependencies used in this project:
+- **Run the following command in the console to install the dependencies used in this project:**
 
 ```
 npm install react-dom react-router-dom axios bootstrap
 ```
 
-To start the project, run the following command:
+- **To start the project, run the following command:**
 
 ```
 npm run dev
